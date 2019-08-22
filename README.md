@@ -1,2 +1,2 @@
-# SUPER-JOKENP-
+# SUPER-JOKENP
 Mini game do JOKENPÔ em Python
