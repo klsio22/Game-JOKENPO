@@ -1,2 +1,2 @@
 # SUPER-JOKENPÔ
-Mini game do JOKENPÔ feito em Python
+Mini game JOKENPÔ(Pedra, Papel, Tesoura), feito em Python.
