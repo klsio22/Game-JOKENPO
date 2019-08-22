@@ -12,7 +12,7 @@ cores = {
     'roxo': '\33[35m',
     'verdeAgua': '\033[36m',
     'cinza': '\033[37m',
-    'Mageta': '\033[35m',
+    
 
     'fundo preto ': '\033[40m',
     'fundo vermelho ': '\033[41m',
@@ -34,7 +34,7 @@ resp = str('s').strip().lower()
 
 while resp == str('s'):
     print('{}Suas opçõe: [0] PEDRA , [1] PAPEL , [2] TESOURA{}'.format(
-        cores['vermelho'], cores['limpa']))
+        cores['roxo'], cores['limpa']))
 
     jogador = int(input('{}Qual a sua jogada ? '.format(cores['amarelo'])))
     if jogador > 2:
